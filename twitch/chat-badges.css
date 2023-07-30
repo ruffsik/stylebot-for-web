@@ -1,0 +1,28 @@
+
+[aria-label="r/place 2023 Cake badge"],
+[aria-label="Prime Gaming badge"],
+[aria-label="5 Gift Subs badge"],
+[aria-label="10 Gift Subs badge"],
+[aria-label="20 Gift Subs badge"],
+[aria-label="30 Gift Subs badge"],
+[aria-label="40 Gift Subs badge"],
+[aria-label="50 Gift Subs badge"],
+[aria-label="100 Gift Subs badge"],
+[aria-label="150 Gift Subs badge"],
+[aria-label="200 Gift Subs badge"],
+[aria-label="250 Gift Subs badge"],
+[aria-label="450 Gift Subs badge"],
+[aria-label="500 Gift Subs badge"],
+[aria-label="750 Gift Subs badge"],
+[aria-label="1000 Gift Subs badge"],
+[aria-label="GlitchCon 2020 badge"],
+[aria-label="cheer 1K badge"],
+[aria-label="cheer 5K badge"],
+[aria-label="TwitchCon 2022 - Amsterdam badge"],
+[aria-label="Turbo badge"],
+[aria-label="Direct Relief - Charity 2018 badge"],
+[aria-label="SuperUltraCombo 2023 badge"],
+[aria-label="GLHF Pledge badge"],
+[aria-label="Sub Gifter badge"] {
+  display: none !important;
+}
